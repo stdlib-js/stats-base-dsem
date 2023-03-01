@@ -222,7 +222,7 @@ console.log( v );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/stats/base/dstdev`][@stdlib/stats/base/dstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-base/dstdev`][@stdlib/stats/base/dstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array.</span>
 
 </section>
 
