@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-20)
+## Unreleased (2025-04-29)
+
+<section class="features">
+
+### Features
+
+-   [`27b7e04`](https://github.com/stdlib-js/stdlib/commit/27b7e04a7296f606209f964c9d09731791f7eba0) - add C ndarray interface and refactor implementation for `stats/base/dsem` [(#6839)](https://github.com/stdlib-js/stdlib/pull/6839)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`27b7e04`](https://github.com/stdlib-js/stdlib/commit/27b7e04a7296f606209f964c9d09731791f7eba0) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dsem` [(#6839)](https://github.com/stdlib-js/stdlib/pull/6839) _(by Gururaj Gurram, stdlib-bot)_
 -   [`c59d021`](https://github.com/stdlib-js/stdlib/commit/c59d0211297386f84f89f1343b8c2b53e5e0246e) - **refactor:** update `stats/base/dsem` native addon from C++ to C [(#4217)](https://github.com/stdlib-js/stdlib/pull/4217) _(by Vivek Maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
@@ -28,9 +39,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gururaj Gurram
 -   Philipp Burckhardt
 -   Vivek Maurya
 
